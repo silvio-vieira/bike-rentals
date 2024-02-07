@@ -3,4 +3,3 @@
 
 Uma descrição detalhada do processo de criação de um modelo de regressão  no Azure ML para previsão da demanda de aluguel de bicicletas.
 
-Teste
