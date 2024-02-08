@@ -22,7 +22,7 @@ Confira como fazer isso clicando [aqui](https://microsoftlearning.github.io/msle
 
 ### 3. Reveja o melhor modelo
 
-Após o treinamento do modelo é possível verificar as características do modelo com melhor desempenho na previsão do número de biciletas alugadas com base nas variáveis como pro exêmplo temperatura, humidade ou dia da semana.
+Após o treinamento do modelo é possível verificar as características do modelo com melhor desempenho na previsão do número de biciletas alugadas com base nas variáveis como por exêmplo temperatura, humidade ou dia da semana.
 
 Confira como fazer isso clicando [aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#review-the-best-model)
 
@@ -46,4 +46,4 @@ A imagem a seguir mostra um texto em formato json onde podemos inserir os parâm
 Confira como fazer isso clicando [aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#test-the-deployed-service)
 
 
-Para finalizar, além de seguir esse passos para treinar, testar e implantar um modelo de machine learning sugerimos que você faça seus próprios testes, alteranto o texto json com outros valores para testar seu modelo para diversas condições.
+Para finalizar, além de seguir esse passos para treinar, testar e implantar um modelo de machine learning sugerimos que você faça seus próprios testes, alterando o texto json com outros valores para testar seu modelo para diversas condições.
