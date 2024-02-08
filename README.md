@@ -4,6 +4,7 @@
 Uma descrição detalhada do processo de criação de um modelo de regressão no Azure ML para previsão da demanda de aluguel de bicicletas. 
  Será aplicado o recurso de aprendizado de máquina automatizado no Aprendizado de Máquina do Azure para treinar e avaliar um modelo de aprendizado de máquina.
 
+Confira os passos a seguir para a realização desta tarefa com sucesso:
 
 ### 1. Criar um espaço de trabalho do Aprendizado de Máquina do Azure
 
@@ -38,4 +39,11 @@ Confira como fazer isso clicando [aqui](https://microsoftlearning.github.io/msle
 Para a realização de testes será necessário ciar __Pontos de extremidade__ no estúdio do Aprendizado de Máquina do Azure.
 Pontos de extremidade podem ser entendidos como um recurso utilizado para solicitar ou passar parâmetros para que o modelo possa utilizá-los para fazer suas inferências ou previsões.
 
+A imagem a seguir mostra um texto em formato json onde podemos inserir os parâmetros que queremos que nosso modelo. Neste caso foram colocados os parâmetrso sugeridos pela documentação do Azure.
+
+![imagem do json](/assets/tela_json.png)
+
 Confira como fazer isso clicando [aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#test-the-deployed-service)
+
+
+Para finalizar, além de seguir esse passos para treinar, testar e implantar um modelo de machine learning sugerimos que você faça seus próprios testes, alteranto o texto json com outros valores para testar seu modelo para diversas condições.
