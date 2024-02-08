@@ -22,14 +22,14 @@ Confira como fazer isso clicando [aqui](https://microsoftlearning.github.io/msle
 
 ### 3. Reveja o melhor modelo
 
-Após o treinamento do modelo é possível verificar as características do modelo com melhor desempenho na previsão do número de biciletas alugadas com base nas variáveis como por exêmplo temperatura, humidade ou dia da semana.
+Após o treinamento do modelo é possível verificar as características do modelo com melhor desempenho na previsão do número de biciletas alugadas com base nas variáveis como por exemplo temperatura, umidade ou dia da semana.
 
 Confira como fazer isso clicando [aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#review-the-best-model)
 
 
 ### 4. Implantar o modelo
 
-Para uitlizar o modelo é necessário que ele seja implantado no espaço do trabalho de aprendizado de máquina automatizado.
+Para utilizar o modelo é necessário que ele seja implantado no espaço do trabalho de aprendizado de máquina automatizado.
 
 Confira como fazer isso clicando [aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#deploy-and-test-the-model)
 
