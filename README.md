@@ -46,4 +46,4 @@ A imagem a seguir mostra um texto em formato json onde podemos inserir os parâm
 Confira como fazer isso clicando [aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#test-the-deployed-service)
 
 
-Para finalizar, além de seguir esse passos para treinar, testar e implantar um modelo de machine learning sugerimos que você faça seus próprios testes, alterando o texto json com outros valores para testar seu modelo para diversas condições.
+Para finalizar, além de seguir esses passos para treinar, testar e implantar um modelo de machine learning sugerimos que você faça seus próprios testes, alterando o texto json com outros valores para testar seu modelo para diversas condições.
